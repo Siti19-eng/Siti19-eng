@@ -61,15 +61,15 @@
 
             <div class="label" style="--i: 23; --label-offset: -80px; --label-rotation: 15deg;">Sleep Time</div>
             <div class="label" style="--i: 5; --label-offset: -78px; --label-rotation: -75deg;">Morning</div>
-            <div class="label" style="--i: 7.5; --label-offset: -70px; --label-rotation: -95deg;">Play Games</div>
+            <div class="label" style="--i: 7.5; --label-offset: -70px; --label-rotation: -95deg;">Scroll Tiktok</div>
             <div class="label" style="--i: 11.7; --label-offset: -73px; --label-rotation: -115deg;">Staying Blank</div>
             <div class="label" style="--i: 12.2; --label-offset: -100px; --label-rotation: -95deg;">Lunch</div>
-            <div class="label" style="--i: 14.5; --label-offset: -105px; --label-rotation: 80deg;">Watch TV</div>
+            <div class="label" style="--i: 14.5; --label-offset: -105px; --label-rotation: 80deg;">Watch Movie</div>
             <div class="label" style="--i: 17; --label-offset: -120px; --label-rotation: 90deg;">Take a nap</div>
-            <div class="label" style="--i: 18.7; --label-offset: -125px; --label-rotation: 95deg;">Book Store</div>
-            <div class="label" style="--i: 19.1; --label-offset: -125px; --label-rotation: 90deg;">Go to Comic</div>
+            <div class="label" style="--i: 18.7; --label-offset: -125px; --label-rotation: 95deg;">Badminton</div>
+            <div class="label" style="--i: 19.1; --label-offset: -125px; --label-rotation: 90deg;">Playing</div>
             <div class="label" style="--i: 20.2; --label-offset: -130px; --label-rotation: 95deg;">Free Time</div>
-            <div class="label" style="--i: 20.9; --label-offset: -125px; --label-rotation: 100deg;">Meditation</div>
+            <div class="label" style="--i: 20.9; --label-offset: -125px; --label-rotation: 100deg;">Watch Movie</div>
 
             <link rel="stylesheet" type="text/css" href="./style.css">
             <div class="moon">
